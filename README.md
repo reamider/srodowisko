@@ -29,7 +29,7 @@
 
   </head>
 <body>
-<a name="laboratorium-1" class="anchor" href="#laboratorium-1"><span class="octicon octicon-link"></span></a>Laboratorium 1</h1>
+<a name="laboratorium-1" class="anchor" href="#laboratorium-2"><span class="octicon octicon-link"></span></a>Laboratorium 1</h1>
 
 <p>Zad.1 Używając linii poleceń stwórz strukturę katalogów:</p>
 
