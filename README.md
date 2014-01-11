@@ -2,7 +2,6 @@
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>rdyrda/labsp</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -45,15 +44,14 @@
 
         <meta property="og:title" content="labsp"/>
   <meta property="og:type" content="githubog:gitrepository"/>
-  <meta property="og:url" content="https://github.com/rdyrda/labsp"/>
   <meta property="og:image" content="https://github.global.ssl.fastly.net/images/gravatars/gravatar-user-420.png"/>
   <meta property="og:site_name" content="GitHub"/>
   <meta property="og:description" content="labsp - Laboratorium ze Środowiska Programisty 2012/13"/>
 
   <meta name="description" content="labsp - Laboratorium ze Środowiska Programisty 2012/13" />
 
-  <meta content="2733154" name="octolytics-dimension-user_id" /><meta content="rdyrda" name="octolytics-dimension-user_login" /><meta content="6558276" name="octolytics-dimension-repository_id" /><meta content="rdyrda/labsp" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="6558276" name="octolytics-dimension-repository_network_root_id" /><meta content="rdyrda/labsp" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/rdyrda/labsp/commits/master.atom" rel="alternate" title="Recent Commits to labsp:master" type="application/atom+xml" />
+  <meta content="2733154" name="octolytics-dimension-user_id" /><meta content="" name="octolytics-dimension-user_login" /><meta content="6558276" name="octolytics-dimension-repository_id" /><meta content="" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="6558276" name="octolytics-dimension-repository_network_root_id" /><meta content="/labsp" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="" rel="alternate" title="Recent Commits to labsp:master" type="application/atom+xml" />
 
   </head>
 <body>
