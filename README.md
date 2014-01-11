@@ -17,38 +17,12 @@
     <link rel="xhr-socket" href="/_sockets" />
     
 
-
-    <meta name="msapplication-TileImage" content="/windows-tile.png" />
-    <meta name="msapplication-TileColor" content="#ffffff" />
-    <meta name="selected-link" value="repo_source" data-pjax-transient />
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="594714D9:06F2:C6A416E:52D129B1" name="octolytics-dimension-request_id" /><meta content="5872601" name="octolytics-actor-id" /><meta content="reamider" name="octolytics-actor-login" /><meta content="5305766443f4c2f5b93d86854f6215571fde3067191ca8a84bd6ce84e5a9f588" name="octolytics-actor-hash" />
-    
-
-    
-    
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-
-    <meta content="authenticity_token" name="csrf-param" />
-<meta content="EXE1gxXasPA+BxYAnfHFq5YN4OIgj/kkxBzJ+uQrLGM=" name="csrf-token" />
-
-    <link href="https://github.global.ssl.fastly.net/assets/github-e0318ec03abae32f266109d4e5ecb65a0ec7ab19.css" media="all" rel="stylesheet" type="text/css" />
-    <link href="https://github.global.ssl.fastly.net/assets/github2-cb9092efb14f24f935f2ceaa5e139d61b58daec1.css" media="all" rel="stylesheet" type="text/css" />
-    
-
-    
-
-      <script src="https://github.global.ssl.fastly.net/assets/frameworks-d4d23eefcbed557582cde6209ccd824fb98255d8.js" type="text/javascript"></script>
-      <script src="https://github.global.ssl.fastly.net/assets/github-2a93856bd56c545b500393f229515bfcb515f71c.js" type="text/javascript"></script>
-      
-      <meta http-equiv="x-pjax-version" content="b642137d481deb5aea0154fc9e20903f">
-
-        <meta property="og:title" content="labsp"/>
+        
   <meta property="og:type" content="githubog:gitrepository"/>
   <meta property="og:image" content="https://github.global.ssl.fastly.net/images/gravatars/gravatar-user-420.png"/>
   <meta property="og:site_name" content="GitHub"/>
   <meta property="og:description" content="labsp - Laboratorium ze Środowiska Programisty 2012/13"/>
 
-  <meta name="description" content="labsp - Laboratorium ze Środowiska Programisty 2012/13" />
 
   <meta content="2733154" name="octolytics-dimension-user_id" /><meta content="" name="octolytics-dimension-user_login" /><meta content="6558276" name="octolytics-dimension-repository_id" /><meta content="" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="6558276" name="octolytics-dimension-repository_network_root_id" /><meta content="/labsp" name="octolytics-dimension-repository_network_root_nwo" />
   <link href="" rel="alternate" title="Recent Commits to labsp:master" type="application/atom+xml" />
