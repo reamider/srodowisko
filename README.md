@@ -38,12 +38,12 @@
 |-- nauka
 |   |-- c
 |   |-- logo
-|   <code>-- pascal
-</code>-- praca
+|      -- pascal
+       -- praca
     |-- dokumenty
-    <code>-- zlecenia
+      -- zlecenia
         |-- niezrealizowane
-</code>-- zrealizowane</p>
+   -- zrealizowane</p>
 
 <div class="highlight highlight-sh"><pre>ODP. mkdir -p temp/dom
      mkdir -p temp/nauka/<span class="o">{</span>c,logo,pascal<span class="o">}</span>
